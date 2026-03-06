@@ -1,4 +1,4 @@
-# E-Commerce Website for a Supermarket
+# E-Commerce System for a Supermarket
 
 ## Description
 This project is a simple e-commerce website for a supermarket.  
