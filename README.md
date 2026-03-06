@@ -1,7 +1,7 @@
 # E-Commerce System for a Supermarket
 
 ## Description
-This project is a simple e-commerce website for a supermarket.  
+This project is a simple e-commerce system for a supermarket.  
 It allows users to view products and simulate online shopping.  
 The system was developed as a software development project.
 
