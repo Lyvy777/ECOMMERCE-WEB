@@ -26,7 +26,7 @@ The system was developed as a software development project.
 5. Open the browser using the local server link (if applicable).
 
 ## Project Purpose
-This project was created for learning and practice in web development and software development concepts.
+This project was created for practice in web development and software development concepts.
 
 ## Author
 Lyvia Gekonge
